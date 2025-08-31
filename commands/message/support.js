@@ -26,8 +26,8 @@ module.exports = {
                 .setDescription(
                     'Need help or have questions? Join our official support server:\n' +
                     '[Support Server](https://discord.gg/xQF9f9yUEM)\n\n' +
-                    'For direct inquiries, contact: **GlaceYT**\n\n' +
-                    'Website: https://glaceyt.com'
+                    'For direct inquiries, contact: **Ace**\n\n' +
+                    'insta: itxace01'
                 )
                 .setTimestamp()
                 .setFooter({ text: 'ily Music Bot • Developed by Ace' });
@@ -39,4 +39,5 @@ module.exports = {
         }
     }
 };
+
 
